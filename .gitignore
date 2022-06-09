@@ -1,0 +1,4 @@
+*.csv
+!load_data/edge-table.csv
+
+__pycache__
